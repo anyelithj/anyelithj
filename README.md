@@ -1,4 +1,4 @@
-<h2>Hello Word!</h2> 👋👩‍💻
+<h2>Hello Word! 👋👩‍💻</h2>
 
 <p>My name is Anyelith Jacobo, I am an Analyst and Systems Development,
 The technologies and language I use are JavaScript in React and Nodejs.</p>
