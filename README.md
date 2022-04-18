@@ -2,17 +2,22 @@
 
 <p>My name is Anyelith Jacobo, I am an Analyst and Systems Development,
 The technologies and language I use are JavaScript in React and Nodejs.</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/gkR94v1ok56OAkg8o1/giphy.gif" width="600" height="400"/>
+</div>
 
-
-<p>You can follow me on social networks:</p>
+<h3>You can follow me on social networks:</h3>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/anyelith-jineth-jacobo-carrillo"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>anyelith-jineth-jacobo-carrillo</a></br>
-  <a><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>@anyelithjacobo</br></a>
+  <a href="https://www.linkedin.com/in/anyelith-jineth-jacobo-carrillo"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>  anyelith-jineth-jacobo-carrillo</a></br>
+  <a><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>  @anyelithjacobo</br></a>
 </div></br>
 <b>Twitter:</b> @anyelithjacobo</br>
 <b>Linkedin:</b> https://www.linkedin.com/in/anyelith-jineth-jacobo-carrillo
 
 <h3>Languages and Tools 👋👩‍💻</h3>
+---
+
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
