@@ -30,6 +30,7 @@ The technologies and language I use are JavaScript in React and Nodejs.</p>
 ---
 
 ### :hammer_and_wrench: Projects :
-https://gestwork-bad1b.web.app/landing
-https://crud-libreria-5d97d.web.app/
-http://workshop-omega.vercel.app
+<p>I love teamwork, it makes me grow and improve at all levels as a person.</p>
+https://gestwork-bad1b.web.app/landing<br>
+https://crud-libreria-5d97d.web.app/<br>
+http://workshop-omega.vercel.app<br>
