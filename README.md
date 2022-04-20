@@ -32,5 +32,13 @@ The technologies and language I use are JavaScript in React and Nodejs.</p>
 ### :hammer_and_wrench: Projects :
 <p>I love teamwork, it makes me grow and improve at all levels as a person.</p>
 https://gestwork-bad1b.web.app/landing<br>
+https://www.pasosdejesus.org/<br>
+https://frontend-sprint-1-anyelithj.vercel.app/reto-2/Calculator%20App/<br>
+https://frontend-sprint-1-anyelithj.vercel.app/reto-1/Bookmark%20Landing%20Page/public/<br>
+https://elastic-easley-1784f0.netlify.app/<br>
+https://epic-archimedes-647222.netlify.app/<br>
+https://loving-pasteur-257660.netlify.app/<br>
+https://entrega-modulo-3-tarea-03-imc.netlify.app/<br>
+https://entrega-modulo-3-tarea-02-peliculas.netlify.app/<br>
 https://crud-libreria-5d97d.web.app/<br>
 http://workshop-omega.vercel.app<br>
