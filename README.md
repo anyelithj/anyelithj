@@ -3,7 +3,7 @@
 <p>My name is Anyelith Jacobo, I am an Analyst and Systems Development,
 The technologies and language I use are JavaScript in React and Nodejs.</p>
 <div align="center">
-  <img src="https://media.giphy.com/media/gkR94v1ok56OAkg8o1/giphy.gif" width="250" height="250"/>
+  <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="250" height="250"/>
 </div>
 ---
 
