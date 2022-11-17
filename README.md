@@ -7,7 +7,7 @@ The technologies and language I use are JavaScript in React and Nodejs.</p>
 </div>
 ---
 
-### :mailbox:You can follow me on social networks: 
+### :mailbox:You can follow me on social networks and connect with me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Anyelith-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/anyelith-jineth-jacobo-carrillo")
 <div id="badges">
 <div id="badges">
@@ -19,9 +19,9 @@ The technologies and language I use are JavaScript in React and Nodejs.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anyelithj&label=Profile%20views&color=0e75b6&style=flat" alt="anyelithj" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+### :mailbox:You can follow me on social networks and connect with me: 
 <p align="left">
-<a href="https://twitter.com/@anyelithj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anyelithj" height="30" width="40" /></a>
+<a href="https://twitter.com/@anyelithj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anyelithjacobo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anyelith-jineth-jacobo-carrillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anyelith-jineth-jacobo-carrillo" height="30" width="40" /></a>
 </p>
 ---
