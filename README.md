@@ -6,15 +6,7 @@ The technologies and language I use are JavaScript in React and Nodejs.</p>
   <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="250" height="250"/>
 </div>
 ---
-
-### :mailbox:You can follow me on social networks and connect with me: 
-[![Linkedin Badge](https://img.shields.io/badge/-Anyelith-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/anyelith-jineth-jacobo-carrillo")
-<div id="badges">
-<div id="badges">
-<a><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>  @anyelithjacobo</br></a>
 </div></br>
-
-
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anyelithj&label=Profile%20views&color=0e75b6&style=flat" alt="anyelithj" /> </p>
