@@ -1,7 +1,7 @@
 <h2>Hello Word! 👋👩‍💻</h2>
 
 <p>My name is Anyelith Jacobo, I am an Analyst and Systems Development,
-The technologies and language I use are JavaScript in React and Nodejs.</p>
+The technologies and language I use are JavaScript in React,Vue,Nextjs and Nodejs.</p>
 <div align="center">
   <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="250" height="250"/>
 </div>
