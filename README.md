@@ -1,11 +1,5 @@
 <div>
 
-<img 
-  src="https://komarev.com/ghpvc/?username=anyelithj&label=Profile%20views&color=0e75b6&style=flat"
-  alt="Tech Girl" 
-  width="180"
-/>
-
 <h1>👩‍💻 Hola, soy Anyelith Jacobo</h1>
 
 <h3>
@@ -25,7 +19,11 @@ Practicante en Desarrollo de Software | Estudiante de Ingeniería de Sistemas
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x"/>
   </a>
 </p>
-
+<img 
+  src="https://komarev.com/ghpvc/?username=anyelithj&label=Profile%20views&color=0e75b6&style=flat"
+  alt="Tech Girl" 
+  width="180"
+/>
 </div>
 
 <hr>
