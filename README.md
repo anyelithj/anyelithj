@@ -1,6 +1,17 @@
-<div>
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg"
+  alt="Tech Girl"
+  width="1"
+  height="1"
+/>
 
-<h1>👩‍💻 Hola, soy Anyelith Jacobo</h1>
+<img 
+  src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Woman%20technologist/Default/3D/woman-technologist_1f469-200d-1f4bb_3d.png"
+  alt="Tech Girl Developer"
+  width="180"
+/>
+
+<h1>👩‍💻 Hola, soy TU_NOMBRE</h1>
 
 <h3>
 Practicante en Desarrollo de Software | Estudiante de Ingeniería de Sistemas
@@ -10,9 +21,6 @@ Practicante en Desarrollo de Software | Estudiante de Ingeniería de Sistemas
 🎓 Tecnóloga en <strong>Análisis y Desarrollo de Sistemas de Información</strong><br>
 🎓 Estudiante de <strong>Ingeniería en Sistemas</strong> (8.º semestre – jornada nocturna)
 </p>
-</div>
-
-<hr>
 
 <p>
 Me apasiona el mundo del software y el aprendizaje continuo. Disfruto crear soluciones digitales,
@@ -27,19 +35,23 @@ siempre abierta a aprender nuevas herramientas según los retos del equipo.
 </p>
 
 <hr>
+
 <!-- Redes sociales -->
+<h2>🌐 Conecta conmigo</h2>
 <p>
-  <a href="https://linkedin.com/in/anyelith-jineth-jacobo-carrillo"  target="_blank">
+  <a href="https://github.com/TU_USUARIO_GITHUB" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://twitter.com/@anyelithjacobo"  target="_blank">
+  <a href="https://twitter.com/TU_TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x"/>
   </a>
 </p>
-<img 
-  src="https://komarev.com/ghpvc/?username=anyelithj&label=Profile%20views&color=0e75b6&style=flat"
-  alt="Tech Girl" 
-/>
+
+<hr>
+
 <h2>✨ Sobre mí</h2>
 <ul>
   <li>🌸 Curiosa y creativa</li>
@@ -82,17 +94,19 @@ siempre abierta a aprender nuevas herramientas según los retos del equipo.
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
-<h3>☁️ DevOps & Herramientas</h3>
+<h3>☁️ DevOps & Cloud</h3>
 <p>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
 <h3>🤖 Inteligencia Artificial (en aprendizaje)</h3>
