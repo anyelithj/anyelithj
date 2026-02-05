@@ -10,19 +10,6 @@ Practicante en Desarrollo de Software | Estudiante de Ingeniería de Sistemas
 🎓 Tecnóloga en <strong>Análisis y Desarrollo de Sistemas de Información</strong><br>
 🎓 Estudiante de <strong>Ingeniería en Sistemas</strong> (8.º semestre – jornada nocturna)
 </p>
-<!-- Redes sociales -->
-<p>
-  <a href="https://linkedin.com/in/anyelith-jineth-jacobo-carrillo"  target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://twitter.com/@anyelithjacobo"  target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x"/>
-  </a>
-</p>
-<img 
-  src="https://komarev.com/ghpvc/?username=anyelithj&label=Profile%20views&color=0e75b6&style=flat"
-  alt="Tech Girl" 
-/>
 </div>
 
 <hr>
@@ -40,7 +27,19 @@ siempre abierta a aprender nuevas herramientas según los retos del equipo.
 </p>
 
 <hr>
-
+<!-- Redes sociales -->
+<p>
+  <a href="https://linkedin.com/in/anyelith-jineth-jacobo-carrillo"  target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com/@anyelithjacobo"  target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x"/>
+  </a>
+</p>
+<img 
+  src="https://komarev.com/ghpvc/?username=anyelithj&label=Profile%20views&color=0e75b6&style=flat"
+  alt="Tech Girl" 
+/>
 <h2>✨ Sobre mí</h2>
 <ul>
   <li>🌸 Curiosa y creativa</li>
