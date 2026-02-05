@@ -4,7 +4,7 @@
 🎓 Tecnóloga en <strong>Análisis y Desarrollo de Sistemas de Información</strong><br>
 🎓 Estudiante de <strong>Ingeniería en Sistemas</strong> (8.º semestre – jornada nocturna)
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anyelithj&label=Profile%20views&color=0e75b6&style=flat" alt="anyelithj" /> </p>
 <p>
 Me apasiona el mundo del software y el aprendizaje continuo. Disfruto crear soluciones digitales,
 participar en proyectos colaborativos y aprender nuevas tecnologías que generen impacto real
