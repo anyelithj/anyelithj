@@ -22,7 +22,6 @@ Practicante en Desarrollo de Software | Estudiante de Ingeniería de Sistemas
 <img 
   src="https://komarev.com/ghpvc/?username=anyelithj&label=Profile%20views&color=0e75b6&style=flat"
   alt="Tech Girl" 
-  width="180"
 />
 </div>
 
