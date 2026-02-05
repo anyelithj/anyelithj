@@ -1,9 +1,41 @@
-<h1>👩‍💻 Hola, soy Anyelith Jineth Jacobo Carrillo</h1>
+<div align="center">
+
+<img 
+  src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Girl.svg" 
+  alt="Tech Girl" 
+  width="180"
+/>
+
+<h1>👩‍💻 Hola, soy Anyelith Jacobo</h1>
+
+<h3>
+Practicante en Desarrollo de Software | Estudiante de Ingeniería de Sistemas
+</h3>
 
 <p>
 🎓 Tecnóloga en <strong>Análisis y Desarrollo de Sistemas de Información</strong><br>
 🎓 Estudiante de <strong>Ingeniería en Sistemas</strong> (8.º semestre – jornada nocturna)
 </p>
+<p align="left">
+<a href="https://twitter.com/@anyelithjacobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anyelithjacobo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anyelith-jineth-jacobo-carrillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anyelith-jineth-jacobo-carrillo" height="30" width="40" /></a>
+</p>
+<!-- Redes sociales -->
+<p>
+  <a href="https://github.com/TU_USUARIO_GITHUB" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anyelithjacobo"/>
+  </a>
+  <a href="https://linkedin.com/in/anyelith-jineth-jacobo-carrillo"  target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com/@anyelithjacobo"  target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x"/>
+  </a>
+</p>
+
+</div>
+
+<hr>
 
 <p>
 Me apasiona el mundo del software y el aprendizaje continuo. Disfruto crear soluciones digitales,
@@ -16,13 +48,7 @@ Actualmente mi enfoque principal está en el <strong>desarrollo web con JavaScri
 con interés en seguir creciendo en <strong>Python, backend e Inteligencia Artificial</strong>,
 siempre abierta a aprender nuevas herramientas según los retos del equipo.
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anyelithj&label=Profile%20views&color=0e75b6&style=flat" alt="anyelithj" /> </p>
 
-### :mailbox:You can follow me on social networks and connect with me: 
-<p align="left">
-<a href="https://twitter.com/@anyelithjacobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anyelithjacobo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anyelith-jineth-jacobo-carrillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anyelith-jineth-jacobo-carrillo" height="30" width="40" /></a>
-</p>
 <hr>
 
 <h2>✨ Sobre mí</h2>
@@ -84,7 +110,6 @@ siempre abierta a aprender nuevas herramientas según los retos del equipo.
 <p>
 <img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLM-6C5CE7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-0A192F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Claude_API-2D3436?style=for-the-badge"/>
 </p>
 
@@ -92,9 +117,9 @@ siempre abierta a aprender nuevas herramientas según los retos del equipo.
 
 <h2>🌱 En constante aprendizaje</h2>
 <p>
-📌 Inteligencia Artificial generativa y aplicaciones con LLM<br>
+📌 IA generativa, LLM y agentes inteligentes<br>
 📌 Python, backend y arquitectura de software<br>
-📌 Buenas prácticas, Clean Code y desarrollo escalable
+📌 Clean Code, buenas prácticas y desarrollo escalable
 </p>
 
 <hr>
