@@ -4,7 +4,7 @@
 🎓 Tecnóloga en <strong>Análisis y Desarrollo de Sistemas de Información</strong><br>
 🎓 Estudiante de <strong>Ingeniería en Sistemas</strong> (8.º semestre – jornada nocturna)
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anyelithj&label=Profile%20views&color=0e75b6&style=flat" alt="anyelithj" /> </p>
+
 <p>
 Me apasiona el mundo del software y el aprendizaje continuo. Disfruto crear soluciones digitales,
 participar en proyectos colaborativos y aprender nuevas tecnologías que generen impacto real
@@ -16,7 +16,13 @@ Actualmente mi enfoque principal está en el <strong>desarrollo web con JavaScri
 con interés en seguir creciendo en <strong>Python, backend e Inteligencia Artificial</strong>,
 siempre abierta a aprender nuevas herramientas según los retos del equipo.
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anyelithj&label=Profile%20views&color=0e75b6&style=flat" alt="anyelithj" /> </p>
 
+### :mailbox:You can follow me on social networks and connect with me: 
+<p align="left">
+<a href="https://twitter.com/@anyelithjacobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anyelithjacobo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anyelith-jineth-jacobo-carrillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anyelith-jineth-jacobo-carrillo" height="30" width="40" /></a>
+</p>
 <hr>
 
 <h2>✨ Sobre mí</h2>
