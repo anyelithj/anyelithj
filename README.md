@@ -1,7 +1,7 @@
 <div align="center">
 
 <img 
-  src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Girl.svg" 
+  src="https://komarev.com/ghpvc/?username=anyelithj&label=Profile%20views&color=0e75b6&style=flat"
   alt="Tech Girl" 
   width="180"
 />
@@ -16,15 +16,8 @@ Practicante en Desarrollo de Software | Estudiante de Ingeniería de Sistemas
 🎓 Tecnóloga en <strong>Análisis y Desarrollo de Sistemas de Información</strong><br>
 🎓 Estudiante de <strong>Ingeniería en Sistemas</strong> (8.º semestre – jornada nocturna)
 </p>
-<p align="left">
-<a href="https://twitter.com/@anyelithjacobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anyelithjacobo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anyelith-jineth-jacobo-carrillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anyelith-jineth-jacobo-carrillo" height="30" width="40" /></a>
-</p>
 <!-- Redes sociales -->
 <p>
-  <a href="https://github.com/TU_USUARIO_GITHUB" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anyelithjacobo"/>
-  </a>
   <a href="https://linkedin.com/in/anyelith-jineth-jacobo-carrillo"  target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
