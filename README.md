@@ -1,10 +1,12 @@
-<h1>👩‍💻 Hola, soy Anyelith Jacobo</h1>
+<h1>👩‍💻 Hi, I'm Anyelith Jacobo</h1>
 
-<img 
-  src="https://github.com/user-attachments/assets/b2693032-cb7b-4b1a-8e06-2145643acf84"
-  alt="Tech Girl Developer"
-  width="180"
-/>
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/b2693032-cb7b-4b1a-8e06-2145643acf84"
+    alt="Tech Girl Developer"
+    width="220"
+  />
+</p>
 
 <p>
 🎓 Tecnóloga en <strong>Análisis y Desarrollo de Sistemas de Información</strong><br>
@@ -13,50 +15,46 @@
 </p>
 
 <p>
-Me apasiona el mundo del software y el aprendizaje continuo. Disfruto crear soluciones digitales,
-participar en proyectos colaborativos y aprender nuevas tecnologías que generen impacto real
-en las personas y las organizaciones.
+I am passionate about software development and continuous learning. I enjoy building digital solutions,
+working on collaborative projects, and exploring new technologies that create real impact for people
+and organizations.
 </p>
 
 <p>
-Actualmente mi enfoque principal está en el <strong>desarrollo web con JavaScript y TypeScript</strong>,
-con interés en seguir creciendo en <strong>Python, Backend e Inteligencia Artificial</strong>.
+My current focus is on <strong>web development with JavaScript and TypeScript</strong>, with a strong interest
+in growing professionally in <strong>Python, backend development, and Artificial Intelligence</strong>.
 </p>
 
 <hr>
 
-<h2>🌐 Conecta conmigo</h2>
+<h2>🌐 Connect with me</h2>
 
 <p>
-<a href="https://github.com/TU_USUARIO" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank">
+<a href="[https://www.linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/anyelith-jineth-jacobo-carrillo)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/TU_USUARIO" target="_blank">
+<a href="[https://twitter.com/YOUR_USERNAME](https://twitter.com/@anyelithjacobo)" target="_blank">
   <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x"/>
 </a>
 </p>
 
 <hr>
 
-<h2>✨ Sobre mí</h2>
+<h2>✨ About Me</h2>
 <ul>
-  <li>🌸 Curiosa y creativa</li>
-  <li>🤝 Orientada al trabajo en equipo</li>
-  <li>👂 Buena capacidad de escucha y comunicación</li>
-  <li>🚀 Motivada por aprender y crecer continuamente</li>
-  <li>🔄 Adaptable a nuevos retos</li>
+  <li>🌸 Curious and creative</li>
+  <li>🤝 Team-oriented mindset</li>
+  <li>👂 Strong listening and communication skills</li>
+  <li>🚀 Highly motivated to learn and grow step by step</li>
+  <li>🔄 Adaptable to new challenges and environments</li>
 </ul>
 
 <hr>
 
-<h2>🛠️ Tecnologías & Herramientas</h2>
+<h2>🛠️ Technologies & Tools</h2>
 
-<h3>💻 Lenguajes</h3>
+<h3>💻 Languages</h3>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -73,7 +71,7 @@ con interés en seguir creciendo en <strong>Python, Backend e Inteligencia Artif
 <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
 </p>
 
-<h3>⚙️ Backend & Datos</h3>
+<h3>⚙️ Backend & Databases</h3>
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -91,7 +89,7 @@ con interés en seguir creciendo en <strong>Python, Backend e Inteligencia Artif
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
-<h3>🤖 Inteligencia Artificial</h3>
+<h3>🤖 Artificial Intelligence</h3>
 <p>
 <img src="https://img.shields.io/badge/LLM-6C5CE7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-0A192F?style=for-the-badge"/>
@@ -100,7 +98,16 @@ con interés en seguir creciendo en <strong>Python, Backend e Inteligencia Artif
 
 <hr>
 
-<h2>💌 Gracias por visitar mi perfil</h2>
+<h2>🌱 Continuous Learning</h2>
 <p>
-Siempre abierta a aprender, colaborar y crecer en nuevos proyectos 🌸
+📌 Generative AI and LLM-based applications<br>
+📌 Python, backend development, and software architecture<br>
+📌 Clean Code, best practices, and scalable solutions
+</p>
+
+<hr>
+
+<h2>💌 Thanks for visiting my profile</h2>
+<p>
+Always open to learning, collaborating, and growing through new challenges 🌸
 </p>
