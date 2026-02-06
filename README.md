@@ -96,7 +96,8 @@ in growing professionally in <strong>Python, backend development, and Artificial
 </p>
 
 <hr>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact" />
+<hr>
 <h2>🌱 Continuous Learning</h2>
 <p>
 📌 Generative AI and LLM-based applications<br>
