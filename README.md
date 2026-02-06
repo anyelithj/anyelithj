@@ -1,7 +1,7 @@
-<h1>👩‍💻 Hola, soy [Tu Nombre]</h1>
+<h1>👩‍💻 Hola, soy Anyelith Jacobo</h1>
 
 <img 
-  src="https://i.imgur.com/8Km9tLL.png"
+  src="https://github.com/user-attachments/assets/b2693032-cb7b-4b1a-8e06-2145643acf84"
   alt="Tech Girl Developer"
   width="180"
 />
