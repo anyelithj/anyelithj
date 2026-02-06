@@ -7,11 +7,10 @@
     width="220"
   />
 </p>
-
 <p>
-🎓 Tecnóloga en <strong>Análisis y Desarrollo de Sistemas de Información</strong><br>
-🎓 Estudiante de <strong>Ingeniería de Sistemas</strong><br>
-<strong>Desarrollo de Software & Web | Backend & IA en formación</strong>
+🎓 Technologist in Information <strong>Systems Analysis and Development </strong><br>
+🎓 <strong>Systems Engineering</strong>Student<br>
+<strong>Software & Web Development | Backend & AI in Training</strong>
 </p>
 
 <p>
@@ -80,14 +79,14 @@ in growing professionally in <strong>Python, backend development, and Artificial
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
-
+<!--
 <h3>☁️ Cloud & DevOps</h3>
 <p>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-</p>
+</p>-->
 
 <h3>🤖 Artificial Intelligence</h3>
 <p>
