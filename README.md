@@ -9,7 +9,7 @@
 </p>
 <p>
 🎓 Technologist in Information <strong>Systems Analysis and Development </strong><br>
-🎓 <strong>Systems Engineering</strong>Student<br>
+🎓 <strong>Systems Engineering</strong> Student<br>
 <strong>Software & Web Development | Backend & AI in Training</strong>
 </p>
 
