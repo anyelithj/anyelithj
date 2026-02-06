@@ -8,8 +8,8 @@
 
 <p>
 🎓 Tecnóloga en <strong>Análisis y Desarrollo de Sistemas de Información</strong><br>
-🎓 Estudiante de <strong>Ingeniería de Sistemas</strong> (8.º semestre – jornada nocturna)<br>
-<strong>Practicante en Desarrollo de Software | Web Developer | Backend & IA en formación</strong>
+🎓 Estudiante de <strong>Ingeniería de Sistemas</strong><br>
+<strong>Desarrollo de Software & Web | Backend & IA en formación</strong>
 </p>
 
 <p>
