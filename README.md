@@ -1,25 +1,15 @@
-<img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg"
-  alt="Tech Girl"
-  width="1"
-  height="1"
-/>
+<h1>👩‍💻 Hola, soy [Tu Nombre]</h1>
 
 <img 
-  src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Woman%20technologist/Default/3D/woman-technologist_1f469-200d-1f4bb_3d.png"
+  src="https://i.imgur.com/8Km9tLL.png"
   alt="Tech Girl Developer"
   width="180"
 />
 
-<h1>👩‍💻 Hola, soy TU_NOMBRE</h1>
-
-<h3>
-Practicante en Desarrollo de Software | Estudiante de Ingeniería de Sistemas
-</h3>
-
 <p>
 🎓 Tecnóloga en <strong>Análisis y Desarrollo de Sistemas de Información</strong><br>
-🎓 Estudiante de <strong>Ingeniería en Sistemas</strong> (8.º semestre – jornada nocturna)
+🎓 Estudiante de <strong>Ingeniería de Sistemas</strong> (8.º semestre – jornada nocturna)<br>
+<strong>Practicante en Desarrollo de Software | Web Developer | Backend & IA en formación</strong>
 </p>
 
 <p>
@@ -30,24 +20,25 @@ en las personas y las organizaciones.
 
 <p>
 Actualmente mi enfoque principal está en el <strong>desarrollo web con JavaScript y TypeScript</strong>,
-con interés en seguir creciendo en <strong>Python, backend e Inteligencia Artificial</strong>,
-siempre abierta a aprender nuevas herramientas según los retos del equipo.
+con interés en seguir creciendo en <strong>Python, Backend e Inteligencia Artificial</strong>.
 </p>
 
 <hr>
 
-<!-- Redes sociales -->
 <h2>🌐 Conecta conmigo</h2>
+
 <p>
-  <a href="https://github.com/TU_USUARIO_GITHUB" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://twitter.com/TU_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x"/>
-  </a>
+<a href="https://github.com/TU_USUARIO" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/TU_USUARIO" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x"/>
+</a>
 </p>
 
 <hr>
@@ -57,8 +48,8 @@ siempre abierta a aprender nuevas herramientas según los retos del equipo.
   <li>🌸 Curiosa y creativa</li>
   <li>🤝 Orientada al trabajo en equipo</li>
   <li>👂 Buena capacidad de escucha y comunicación</li>
-  <li>🚀 Motivada por aprender y crecer paso a paso</li>
-  <li>🔄 Adaptable a nuevos retos y entornos cambiantes</li>
+  <li>🚀 Motivada por aprender y crecer continuamente</li>
+  <li>🔄 Adaptable a nuevos retos</li>
 </ul>
 
 <hr>
@@ -82,14 +73,6 @@ siempre abierta a aprender nuevas herramientas según los retos del equipo.
 <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
 </p>
 
-<h3>🎨 UI & Estilos</h3>
-<p>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-</p>
-
 <h3>⚙️ Backend & Datos</h3>
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -100,29 +83,19 @@ siempre abierta a aprender nuevas herramientas según los retos del equipo.
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
-<h3>☁️ DevOps & Cloud</h3>
+<h3>☁️ Cloud & DevOps</h3>
 <p>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
-<h3>🤖 Inteligencia Artificial (en aprendizaje)</h3>
+<h3>🤖 Inteligencia Artificial</h3>
 <p>
-<img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLM-6C5CE7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-0A192F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Claude_API-2D3436?style=for-the-badge"/>
-</p>
-
-<hr>
-
-<h2>🌱 En constante aprendizaje</h2>
-<p>
-📌 IA generativa, LLM y agentes inteligentes<br>
-📌 Python, backend y arquitectura de software<br>
-📌 Clean Code, buenas prácticas y desarrollo escalable
 </p>
 
 <hr>
