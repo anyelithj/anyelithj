@@ -112,11 +112,11 @@ in growing professionally in <strong>Python, backend development, and Artificial
 <ul>
   <li>
     <strong>Project Gestwork</strong> — 
-    <a href="[https://your-deploy-link-1.com](https://gestwork-bad1b.web.app/landing)" target="_blank">Live Demo</a>
+    <a href="https://gestwork-bad1b.web.app/landing" target="_blank">Live Demo</a>
   </li>
   <li>
     <strong>Project Rickandmorty</strong> — 
-    <a href="[https://your-deploy-link-2.com](https://rickandmortyapi-sepia.vercel.app/)" target="_blank">Live Demo</a>
+    <a href="https://rickandmortyapi-sepia.vercel.app" target="_blank">Live Demo</a>
   </li>
 </ul>
 
