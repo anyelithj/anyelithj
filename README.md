@@ -107,6 +107,20 @@ in growing professionally in <strong>Python, backend development, and Artificial
 
 <hr>
 
+<h2>🚀 Projects</h2>
+
+<ul>
+  <li>
+    <strong>Project Gestwork</strong> — 
+    <a href="[https://your-deploy-link-1.com](https://gestwork-bad1b.web.app/landing)" target="_blank">Live Demo</a>
+  </li>
+  <li>
+    <strong>Project Rickandmorty</strong> — 
+    <a href="[https://your-deploy-link-2.com](https://rickandmortyapi-sepia.vercel.app/)" target="_blank">Live Demo</a>
+  </li>
+</ul>
+
+<hr>
 <h2>💌 Thanks for visiting my profile</h2>
 <p>
 Always open to learning, collaborating, and growing through new challenges 🌸
